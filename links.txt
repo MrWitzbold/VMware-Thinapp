@@ -1,0 +1,24 @@
+Number	Offset	Address		Size	Type	String
+1957	0004ce78		Overlay	31	A	.http://www.digicert.com/ssl-cps-repository.htm0
+1960	0004d04e		Overlay	1b	A	http://ocsp.digicert.com0C
+1961	0004d074		Overlay	39	A	7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+1963	0004d0bf		Overlay	37	A	4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
+1964	0004d0fb		Overlay	37	A	4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
+1970	0004d396		Overlay	18	A	http://www.vmware.com/0
+1995	0004da04		Overlay	1d	A	http://sv.symcb.com/sv.crl0a
+1997	0004da42		Overlay	1b	A	https://d.symcb.com/cps0%
+1998	0004da6a		Overlay	19	A	https://d.symcb.com/rpa0
+2000	0004dab5		Overlay	15	A	http://sv.symcd.com0&
+2001	0004dad5		Overlay	1d	A	http://sv.symcb.com/sv.crt0
+2021	0004df2c		Overlay	14	A	http://s2.symcb.com0
+2023	0004df7b		Overlay	1e	A	http://www.symauth.com/cps0(
+2024	0004dfa3		Overlay	20	A	0http://www.symauth.com/rpa00
+2026	0004dfd3		Overlay	22	A	http://s1.symcb.com/pca3-g5.crl0
+2048	0004e4e6		Overlay	46	A	Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+2058	0004e853		Overlay	19	A	http://www.vmware.com/0/
+2079	0004ed4a		Overlay	29	A	&https://www.globalsign.com/repository/0
+2081	0004eda7		Overlay	37	A	5http://crl.globalsign.com/gs/gstimestampingsha2g2.crl0
+2082	0004edfd		Overlay	3f	A	<http://secure.globalsign.com/cacert/gstimestampingsha2g2.crt0<
+2083	0004ee47		Overlay	33	A	0http://ocsp2.globalsign.com/gstimestampingsha2g20
+2104	0004f250		Overlay	2a	A	&https://www.globalsign.com/repository/06
+2106	0004f28a		Overlay	28	A	%http://crl.globalsign.net/root-r3.crl0
